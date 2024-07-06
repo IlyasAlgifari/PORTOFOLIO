@@ -1,0 +1,14 @@
+.box-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    animation-name: fadeInDown;
+    animation-duration: 1.5s;
+}
+
+.box-brand {
+    display: flex;
+    flex-Direction: row;
+    align-items: center;
+}
